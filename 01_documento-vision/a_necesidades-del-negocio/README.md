@@ -14,25 +14,25 @@ CLASES DEL MODELO DE NEGOCIO DE CASOS DE USO INICIAL
   - Inicio de sesión
   - Offline/Online 
 - Web
- - Contexto
- - Proyecto
- - Instrumento
- - Tarea
- - Equipo
- - Campaña
- - Cambio
-- Móvil
- - Convocatoria
- - Consulta
- - Respuesta
- - Voluntario
- - Tarea
- - Conjunto de datos
-  - Navegación
-  - Auditiva
-  - Geográfica
-   - Cartografía formularios
+  - Contexto
+  - Proyecto
+  - Instrumento
+  - Tarea
+  - Equipo
   - Campaña
+  - Cambio
+- Móvil
+  - Convocatoria
+  - Consulta
+  - Respuesta
+  - Voluntario
+  - Tarea
+  - Conjunto de datos
+    - Navegación
+    - Auditiva
+    - Geográfica
+      - Cartografía formularios
+    - Campaña
   - Meta
 
 NUEVAS CLASES IDENTIFICADAS DEL MODELO DE NEGOCIO DE CASOS DE USO
