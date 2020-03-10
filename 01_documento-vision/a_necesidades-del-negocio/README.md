@@ -9,41 +9,41 @@ Se creará una plataforma web/móvil con la integración de las 4 herramientas d
 Teniendo en cuenta que el diseño está enfocado al desarrollo a proyectos de medición/evaluación, la solución es aplicable al caso proyectos de sistematización con restricciones.
 
 CLASES DEL MODELO DE NEGOCIO DE CASOS DE USO INICIAL
-● Usuarios
-  ○ Registro
-  ○ Inicio de sesión
-  ○ Offline/Online 
-● Web
-  ○ Contexto
-  ○ Proyecto
-  ○ Instrumento
-  ○ Tarea
-  ○ Equipo
-  ○ Campaña
-  ○ Cambio
-● Móvil
-  ○ Convocatoria
-  ○ Consulta
-  ○ Respuesta
-  ○ Voluntario
-  ○ Tarea
-  ○ Conjunto de datos
-    ■ Navegación
-      ● Auditiva
-      ● Geográfica
-    ■ Cartografía formularios
-  ○ Campaña
-  ○ Meta
+- Usuarios
+-- Registro
+-- Inicio de sesión
+-- Offline/Online 
+- Web
+-- Contexto
+-- Proyecto
+-- Instrumento
+-- Tarea
+-- Equipo
+-- Campaña
+-- Cambio
+- Móvil
+-- Convocatoria
+-- Consulta
+-- Respuesta
+-- Voluntario
+-- Tarea
+-- Conjunto de datos
+--- Navegación
+---- Auditiva
+---- Geográfica
+----- Cartografía formularios
+-- Campaña
+-- Meta
 
 NUEVAS CLASES IDENTIFICADAS DEL MODELO DE NEGOCIO DE CASOS DE USO
-● Dimensión
-● Decisión
-● Temática
-● Contextualización
-● Reportes
-● Navegación
-● Convocatoria
-● Beneficiarios (Voluntario, Invitado)
-● Técnicos (Proyectistas, Validador)
-● Sincronización online/offline
-● Visualización
+- Dimensión
+- Decisión
+- Temática
+- Contextualización
+- Reportes
+- Navegación
+- Convocatoria
+- Beneficiarios (Voluntario, Invitado)
+- Técnicos (Proyectistas, Validador)
+- Sincronización online/offline
+- Visualización
