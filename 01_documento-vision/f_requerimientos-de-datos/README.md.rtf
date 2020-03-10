@@ -1,0 +1,35 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2511
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 - Usuarios: Para definir los usuarios se necesita la informaci\'f3n basica de acceso contando con el estado, los roles y funciones o permisos que tendra todos los usuarios del sistema.\
+\
+- Roles: Diferentes roles del sistema (Invitado, Voluntario, Validador, Proyectista). Acciones: Diferentes permisos que tendra los diferentes usuarios entre ellos el CRUD\
+(Crear, Ver, Actualizar, Borrar). Estas funciones estan relacionado con los roles.\
+\
+- Funciones roles: Esta tabla hace referencia a los diferentes permisos que tienen los diferentes roles. Ejemplo: permiso de editar, eliminar, ver, validar, visualizar, crear, etc.\
+\
+- Proyectos: Para definir los proyectos se necesita la informaci\'f3n como se ve en los atributos del diagrama.\
+\
+- Datos de contexto: Datos generados en archivo plano en formato .CSV para publicaci\'f3n en HDX.\
+\
+- Contexto: Descripci\'f3n de los diferentes contextos que iran vinculados a los diferentes proyectos.\
+\
+- Contextos de proyectos: Relacion de muchos a muchos entre los diferentes contextos a los proyectos. Es decir varios contextos pueden estar vinculados al mismo proyecto y varios proyectos pueden estar vinculados al mismo contexto.\
+\
+- Equipo: Para definir el equipo se necesita el usuario y el proyecto relacionado y por aparte el estado del miembro. Con esto conformar los diferentes equipos de trabajo.\
+\
+- Datos de contexto: Los datos de contexto estan relacionados con los proyectos ya que esta es la etapa inicial para la realizaci\'f3n de gestion de proyectos. A su vez se necesita el Tag del HDX para su respectiva publicaci\'f3n a la herramienta HDX.\
+\
+- Desiciones: Para definir la desici\'f3n se necesita saber el usuario que tomara esa desicion mas una descripci\'f3n del motivo de la toma de desici\'f3n. Por otro lado esta toma de desiciones esta vinculada con los proyectos formando asi una lista de toma de desiciones respecto a los proyectos. Ejemplo:\
+	- desici\'f3n1 y desici\'f3n2 aplica a proyecto1\
+	- desici\'f3n3 y desici\'f3n4 aplica a proyecto2\
+	- desici\'f3n1 y desic\'edon4 aplica a proyecto3\
+Estas toma de desiciones son de muchos a muchos con diferentes proyectos y puede que mas de una toma de desici\'f3n pueda aplicar al mismo proyecto.\
+\
+- Instrumentos: Para definir los instrumentos se necesita los tipos de instrumentos, en este caso (Formulario, Mapear).\
+\
+- Tarea: Para definir las tareas es necesario el instrumento para realizar la tarea y el proyecto relacionado a la tarea. Por otro lado, la informaci\'f3n necesaria de la tarea como se ve en el esquema y sus respectivas restricciones como geo-localizaci\'f3n, Cantidad, Tiempo.}
