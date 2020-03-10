@@ -10,9 +10,9 @@ Teniendo en cuenta que el diseño está enfocado al desarrollo a proyectos de me
 
 CLASES DEL MODELO DE NEGOCIO DE CASOS DE USO INICIAL
 - Usuarios
--- Registro
--- Inicio de sesión
--- Offline/Online 
+  - Registro
+  - Inicio de sesión
+  - Offline/Online 
 - Web
 -- Contexto
 -- Proyecto
