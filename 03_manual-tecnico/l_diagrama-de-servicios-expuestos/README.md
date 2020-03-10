@@ -1,0 +1,5 @@
+Evidencia física: app
+Acciones del cliente: Se comprende por acciones que hace el usuario en la aplicación móvil como (Login, registrarse, recuperar contraseña, explorar para ver el contexto, ver proyectos, ver tareas, ver perfil de sus datos personales del sistema)
+Acciones visibles del usuario: Se comprende por acciones visibles por el cliente como (llenar un formulario de registro, llenar formulario para recuperar contraseña, ver y escuchar datos de contexto y visualización de datos, ver tareas y poder participar en ellos, edición de datos personales)
+Acciones invisibles del usuario: Se comprende por acciones que hace el usuario, pero no son visibles como (Un creación de un registro, actualización de perfil a la hora de recuperar la contraseña, filtración de contextualización dependiendo del territorio y perfil del usuario, datos almacenados en tasking o KOBO a la hora de participar en una tarea, actualización de datos de perfil)
+Proceso de soporte: Se comprende por acciones que toma el sistema por si solo como (Importación o exportación de datos de contexto, reportes automáticos del sistema)
