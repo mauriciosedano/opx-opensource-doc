@@ -1,0 +1,1 @@
+Los nodos son correspondientes a elementos de hardware o software en este caso los contenedores donde se alojan las herramientas de implementación que son a nivel de base de datos la solución web y el del usuario final web/móvil interconectados mediante API’s mediante un bus de integración de datos.
