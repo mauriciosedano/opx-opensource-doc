@@ -1,15 +1,14 @@
-# opx-opensource-doc
-Documentación del producto OPx
+# opx-doc
+Repositorio de documentación del producto opensource Plataforma OPx
 
-**Objetivo**: verificar suficiencia para asegurar su desarrollo, realizar su instalación y para realizar pruebas beta desde la  **perspectiva de una comunidad de desarrolladores opensource** sobre un bien público
+Creado por: Mauricio Sedano 20/AGO/2019 
+Alimentado por: Mauricio Sedano 26/AGO/2020
 
-**Punto de partida**: la estructura de este repositorio responde en dos niveles. El primer nivel hace referencia a los documentos acordados como entregables. El segundo nivel a las secciones de contenido de cada uno de los entregables. De esta manera se busca *priorizar la actualización de diagramas* y facilitar la actualización de secciones descriptivas. 
+**Objetivo**: Verificar suficiencia para asegurar su desarrollo, realizar su instalación y ejecutar pruebas beta desde la  *perspectiva de una comunidad de desarrolladores opensource* sobre un bien público
 
-**Documento de requerimientos de software**: documento suministrado el día 02/MAR/2020 por Neuromedia. 
+**Punto de partida**: El contenido de este repositorio fue extraido del "documento de requerimientos de software" suministrado por Neuromedia el día 02/MAR/2020. Este repositorio se estructura en dos niveles: primero hace referencia a los documentos acordados como entregables según contrato y segundo a las secciones de contenido de cada uno. Con esta estructura se busca *priorizar la actualización de los diagramas aumentando su nivel de datlle* y facilitar la actualización de de cada sección descriptiva.
 
-Su contenido hace referencia a secciones de los documentos: "Documento de visión", "Modelo de despliegue" y "Manual técnico".
-
-- Estructurado por: Mauricio Sedano
+**Documento de requerimientos de software**: Su contenido hace referencia a secciones de los documentos: "Documento de visión", "Modelo de despliegue" y "Manual técnico".
 - Elaborado por: William Chami
 - Fecha elaboración: 20/AGO/2019
 - Revisado por: Mauricio Sedano
