@@ -1,5 +1,5 @@
 # opx-opensource-doc
-Repositorio de documentación del producto opensource Plataforma OPx
+**Repositorio de documentación del producto opensource Plataforma OPx**
 
 **Creado por**: Mauricio Sedano 20/AGO/2019 
 **Alimentado por**: Mauricio Sedano 26/AGO/2020
