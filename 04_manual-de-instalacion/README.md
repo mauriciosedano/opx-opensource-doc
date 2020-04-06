@@ -1,5 +1,5 @@
 # Manuales de instalación OPC
-Manuales ténicos en la configuración de los servidores
+Manuales técnicos de despliegue en los diferentes servidores
 ## Herramientas
 * KOBO
 * CKAN
